@@ -1,0 +1,5 @@
+anthropic>=0.68.0
+networkx>=3.2,<4
+requests>=2.31
+python-dotenv>=1.0
+streamlit>=1.35
